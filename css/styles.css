@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+    text-transform: capitalize;
+    font-family: 'Exo 2',sans-serif;
+  }
