@@ -1,0 +1,21 @@
+$blue: #4834D4;
+$red: #EB4D4B;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .2s linear;
+    text-transform: capitalize;
+    font-family: 'Exo 2', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+}
+
